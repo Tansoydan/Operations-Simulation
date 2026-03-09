@@ -1,0 +1,81 @@
+job_id,client_ref,system_type,engineer,job_date,duration_hrs,install_cost_gbp,status,cameras_installed,warranty_months
+JOB0001,CLT003,Intruder Alarm,Mike Tanner,2023-01-31,7.4,3000.0,Completed,,24.0
+JOB0002,CLT009,Intruder Alarm,Connor Mills,2023-09-06,2.4,,Completed,13.0,24.0
+JOB0003,CLT004,Intercom,mike tanner,2023-02-19,3.8,4500.0,In Progress,,12.0
+JOB0004,CLT022,CCTV,mike tanner,2023-02-20,6.2,1200.0,Completed,,24.0
+JOB0005,CLT018,Intruder Alarm,mike tanner,2023-08-18,2.7,,Completed,14.0,
+JOB0006,CLT004,Intercom,Connor Mills,2023-01-26,6.9,1200.0,Failed - Revisit,,24.0
+JOB0007,CLT014,CCTV + Alarm,Raj Patel,2023-09-06,7.1,800.0,Completed,0.0,36.0
+JOB0008,CLT009,Access Control,mike tanner,2023-08-21,6.0,,Completed,,24.0
+JOB0009,CLT007,Fire Alarm,Yemi Adeyemi,2023-01-30,5.0,3000.0,Completed,15.0,
+JOB0010,CLT030,Intruder Alarm,Mike Tanner,2023-09-29,7.7,1200.0,Failed - Revisit,,12.0
+JOB0011,CLT020,Intercom,Raj Patel,2023-02-04,4.1,2000.0,Pending,,12.0
+JOB0012,CLT020,CCTV + Alarm,Yemi Adeyemi,2023-02-11,5.3,3000.0,Completed,,24.0
+JOB0013,CLT008,CCTV + Alarm,Raj Patel,2023-05-16,5.9,2500.0,In Progress,,12.0
+JOB0014,CLT001,Fire Alarm,Connor Mills,2023-08-23,8.0,1200.0,Pending,,
+JOB0015,CLT009,Access Control,Mike Tanner,2023-03-09,7.2,3000.0,Completed,,36.0
+JOB0016,CLT027,Intercom,Sharon Webb,2023-10-06,5.5,800.0,Completed,,24.0
+JOB0017,CLT030,Intruder Alarm,Sharon Webb,2023-02-23,2.3,1200.0,Completed,,24.0
+JOB0018,CLT009,Fire Alarm,Raj Patel,2023-05-25,6.2,2000.0,Completed,,24.0
+JOB0019,CLT017,Access Control,Mike Tanner,2023-09-08,2.1,4500.0,Failed - Revisit,,12.0
+JOB0020,CLT001,Intruder Alarm,Yemi Adeyemi,2023-06-20,7.9,1500.0,Completed,13.0,
+JOB0021,CLT001,CCTV,Yemi Adeyemi,2023-02-27,7.4,800.0,Failed - Revisit,,
+JOB0022,CLT018,CCTV + Alarm,Raj Patel,2023-03-17,1.8,3000.0,Failed - Revisit,11.0,24.0
+JOB0023,CLT022,Intercom,Mike Tanner,2023-05-08,3.8,4500.0,Pending,,24.0
+JOB0024,CLT030,Intruder Alarm,Raj Patel,2023-05-02,7.2,800.0,Completed,,24.0
+JOB0025,CLT026,Intercom,Yemi Adeyemi,2023-07-30,6.8,2500.0,Completed,,12.0
+JOB0026,CLT013,CCTV + Alarm,Raj Patel,2023-01-20,2.8,,Completed,,24.0
+JOB0027,CLT008,Intercom,Raj Patel,2023-01-13,4.1,2500.0,Failed - Revisit,8.0,24.0
+JOB0028,CLT021,CCTV + Alarm,Yemi Adeyemi,2023-09-18,7.9,3000.0,Completed,8.0,24.0
+JOB0029,CLT019,CCTV,Mike Tanner,2023-05-16,5.4,3000.0,Completed,,36.0
+JOB0030,CLT020,CCTV,mike tanner,2023-09-19,7.3,2000.0,Completed,13.0,12.0
+JOB0031,CLT017,Intercom,Yemi Adeyemi,2023-10-03,7.6,2000.0,Completed,2.0,24.0
+JOB0032,CLT020,Intercom,Mike Tanner,2023-06-10,6.2,2500.0,Pending,,36.0
+JOB0033,CLT011,Intercom,Sharon Webb,2023-07-26,5.1,2000.0,In Progress,,36.0
+JOB0034,CLT022,Fire Alarm,Connor Mills,2023-03-31,3.5,800.0,Completed,,24.0
+JOB0035,CLT014,Fire Alarm,Yemi Adeyemi,2023-10-24,3.6,,In Progress,,24.0
+JOB0036,CLT017,Intercom,Raj Patel,2023-08-31,5.8,2500.0,Pending,,
+JOB0037,CLT011,Intruder Alarm,Yemi Adeyemi,2023-02-17,3.5,2000.0,Completed,1.0,24.0
+JOB0038,CLT016,CCTV + Alarm,mike tanner,2023-02-07,7.3,2000.0,Completed,,36.0
+JOB0039,CLT016,Intruder Alarm,Raj Patel,2023-07-24,5.8,800.0,Failed - Revisit,13.0,24.0
+JOB0040,CLT006,CCTV + Alarm,Mike Tanner,2023-09-23,5.1,1200.0,In Progress,,36.0
+JOB0041,CLT022,Fire Alarm,Connor Mills,2023-09-29,3.6,,Pending,,
+JOB0042,CLT014,CCTV + Alarm,Raj Patel,2023-10-08,6.3,,In Progress,,24.0
+JOB0043,CLT027,Fire Alarm,mike tanner,2023-05-22,5.6,2500.0,In Progress,9.0,24.0
+JOB0044,CLT009,Access Control,Connor Mills,2023-06-21,2.0,1500.0,Completed,4.0,24.0
+JOB0045,CLT003,CCTV + Alarm,Sharon Webb,2023-08-01,5.0,4500.0,Completed,,36.0
+JOB0046,CLT013,Intercom,Mike Tanner,2023-10-27,7.1,4500.0,In Progress,11.0,24.0
+JOB0047,CLT025,CCTV + Alarm,Connor Mills,2023-07-19,6.4,2000.0,In Progress,,24.0
+JOB0048,CLT014,CCTV,mike tanner,2023-09-06,3.7,4500.0,Completed,,36.0
+JOB0049,CLT030,Fire Alarm,Connor Mills,2023-03-07,1.7,4500.0,Pending,,12.0
+JOB0050,CLT003,Intruder Alarm,mike tanner,2023-08-08,2.7,2500.0,In Progress,,24.0
+JOB0051,CLT015,Access Control,mike tanner,2023-06-17,3.3,4500.0,Completed,15.0,12.0
+JOB0052,CLT024,CCTV,Sharon Webb,2023-10-04,3.0,1200.0,Failed - Revisit,,12.0
+JOB0053,CLT025,Intruder Alarm,Raj Patel,2023-01-16,7.0,1500.0,Completed,,36.0
+JOB0054,CLT022,Fire Alarm,Raj Patel,2023-02-28,4.5,2500.0,Failed - Revisit,,24.0
+JOB0055,CLT020,Intruder Alarm,Sharon Webb,2023-02-28,2.2,800.0,Completed,,36.0
+JOB0056,CLT013,CCTV,Connor Mills,2023-04-12,6.0,2000.0,Completed,,24.0
+JOB0057,CLT028,Fire Alarm,Mike Tanner,2023-03-03,3.8,4500.0,Completed,,12.0
+JOB0058,CLT017,CCTV,mike tanner,2023-06-24,6.8,1200.0,In Progress,,36.0
+JOB0059,CLT023,CCTV + Alarm,Raj Patel,2023-03-20,6.3,2500.0,Pending,,36.0
+JOB0060,CLT015,Intercom,Connor Mills,2023-08-12,3.2,2000.0,Failed - Revisit,8.0,36.0
+JOB0061,CLT008,Fire Alarm,Connor Mills,2023-08-26,5.8,3000.0,Completed,10.0,24.0
+JOB0062,CLT016,Access Control,Sharon Webb,2023-04-19,3.7,2500.0,Pending,16.0,24.0
+JOB0063,CLT003,Intercom,mike tanner,2023-05-04,4.7,2000.0,Completed,15.0,36.0
+JOB0064,CLT026,CCTV,Sharon Webb,2023-01-09,2.9,2000.0,Completed,,
+JOB0065,CLT012,Fire Alarm,Connor Mills,2023-08-31,3.7,3000.0,Completed,,36.0
+JOB0066,CLT009,Access Control,Raj Patel,2023-06-06,2.3,2000.0,Completed,5.0,24.0
+JOB0067,CLT007,Access Control,Yemi Adeyemi,2023-09-05,5.3,2500.0,Completed,,24.0
+JOB0068,CLT008,Intruder Alarm,Sharon Webb,2023-07-04,1.6,1500.0,Completed,1.0,
+JOB0069,CLT010,Intercom,mike tanner,2023-03-06,2.2,800.0,Pending,,36.0
+JOB0070,CLT016,Access Control,Raj Patel,2023-08-14,7.8,2500.0,Failed - Revisit,3.0,12.0
+JOB0071,CLT013,CCTV,Connor Mills,2023-09-09,5.6,800.0,Completed,,
+JOB0072,CLT010,Intruder Alarm,Mike Tanner,2023-02-13,5.1,4500.0,Pending,,
+JOB0073,CLT008,CCTV + Alarm,mike tanner,2023-09-25,7.4,2500.0,Failed - Revisit,,36.0
+JOB0074,CLT010,Fire Alarm,Mike Tanner,2023-10-19,5.5,1200.0,Failed - Revisit,,24.0
+JOB0075,CLT009,Intruder Alarm,Raj Patel,2023-02-11,2.6,1200.0,Completed,13.0,36.0
+JOB0076,CLT023,Access Control,Mike Tanner,2023-08-29,3.0,2500.0,Completed,2.0,24.0
+JOB0077,CLT030,Intercom,Connor Mills,2023-05-16,5.8,2000.0,In Progress,7.0,24.0
+JOB0078,CLT030,Intruder Alarm,Mike Tanner,2023-05-17,1.9,2500.0,Pending,,
+JOB0079,CLT030,CCTV + Alarm,Mike Tanner,2023-05-28,4.5,2500.0,Completed,8.0,
+JOB0080,CLT018,CCTV + Alarm,Mike Tanner,2023-09-10,5.4,4500.0,Completed,,

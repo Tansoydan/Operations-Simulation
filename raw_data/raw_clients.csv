@@ -1,0 +1,31 @@
+client_id,client_name,site_type,region,account_manager,contract_start,contract_type,monthly_fee_gbp
+clt001,Tesco Express Hackney,Transport Hub,East London,Dave Okafor,2021-10-09,Maintenance,
+CLT002,tesco express hackney,Warehouse,Kent,Dave Okafor,24/11/2022,Monitoring Only,150.0
+CLT003,Barclays Bank Stratford,Retail,East London,Dave Okafor,12/08/2021,Maintenance,120.0
+CLT004,Premier Inn Bethnal Green,Transport Hub,Kent,Priya shah,2022-03-06,Maintenance,1000.0
+CLT005,DHL Warehouse Dagenham,Office,East London,dave okafor,09/03/2022,Full Service,350.0
+CLT006,NHS Whipps Cross,Warehouse,South London,Dave Okafor,05/04/2021,Full Service,150.0
+clt007,Lidl Walthamstow,Office,South London,Priya shah,2021-09-28,Monitoring Only,1000.0
+CLT008,Co-op Leyton,Hospitality,East London,Priya shah,28/10/2021,Monitoring Only,500.0
+CLT009,Amazon Fulfilment Tilbury,Transport Hub,East London,Dave Okafor,09/11/2022,Maintenance,350.0
+CLT010,University of East London,Office,North London,Dave Okafor,2022-01-25,Full Service,
+CLT011,Canary Wharf Security Ltd,Transport Hub,South London,dave okafor,15/01/2022,Full Service,250.0
+CLT012,McDonald's Romford,Transport Hub,Kent,Dave Okafor,16/09/2022,Maintenance,250.0
+clt013,Poundland Ilford,Hospitality,West London,Priya Shah,2022-10-18,Monitoring Only,250.0
+CLT014,Sports Direct Lakeside,Office,East London,dave okafor,02/02/2021,Full Service,750.0
+CLT015,Boots Westfield,Retail,North London,Priya shah,19/11/2021,Maintenance,1000.0
+CLT016,HSBC Canary Wharf,Transport Hub,West London,dave okafor,2021-09-29,Maintenance,250.0
+CLT017,Greggs Wood Green,Transport Hub,Essex,Lee Hutchins,21/08/2022,Full Service,500.0
+CLT018,Halfords Beckton,Warehouse,Essex,Lee Hutchins,04/04/2021,Monitoring Only,150.0
+clt019,Argos Barking,Transport Hub,North London,Lee Hutchins,2022-09-03,Monitoring Only,
+CLT020,Post Office Stepney,Hospitality,Essex,Lee Hutchins,26/06/2022,Full Service,120.0
+CLT021,Wetherspoons Bow,Transport Hub,Essex,Priya Shah,19/10/2022,Full Service,150.0
+CLT022,Iceland Tottenham,Hospitality,North London,Lee Hutchins,2021-01-04,Full Service,200.0
+CLT023,Morrisons Chingford,Office,Kent,Priya Shah,17/10/2022,Monitoring Only,250.0
+CLT024,B&Q Beckton,Healthcare,North London,Priya shah,28/06/2022,Monitoring Only,500.0
+clt025,KFC Stratford,Retail,East London,Priya Shah,2021-11-11,Maintenance,120.0
+CLT026,Currys Lakeside,Education,East London,Dave Okafor,13/05/2022,Monitoring Only,200.0
+CLT027,Wembley Arena,Transport Hub,West London,Priya shah,19/06/2021,Full Service,750.0
+CLT028,O2 Academy Brixton,Education,Kent,dave okafor,2021-11-16,Full Service,
+CLT029,Gatwick Airport (North),Hospitality,Essex,Lee Hutchins,04/05/2021,Maintenance,250.0
+CLT030,St Thomas Hospital,Healthcare,East London,Priya shah,22/07/2022,Maintenance,250.0
