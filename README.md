@@ -29,6 +29,9 @@ datasets and engineers KPI metrics to support commercial decision-making.
 ## Tools
 Python, Pandas, SQL (SQLite)
 
+## Dashboard
+Live Tableau dashboard: https://public.tableau.com/app/profile/taner.soydan/viz/SecurityOperationsDashboard/RevenueDash
+
 ## What This Demonstrates
 - End-to-end data pipeline from raw messy inputs to clean analytical output
 - Ability to identify and document data quality issues before cleaning
